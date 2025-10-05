@@ -10,7 +10,7 @@ Coming soon...
 
 - [ ] Implement a system tray with a sleek dropdown menu
 - [ ] Implement time tracking functionality
-- [ ] Add ESLint
+- [x] Add ~~ESLint~~ Biome
 - [ ] Add support for the Zed editor
 - [ ] Add support for the Vim editor
 
