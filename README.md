@@ -1,7 +1,39 @@
-# Tauri + React + Typescript
+# Eon
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+An application that allows you to conveniently track your time.
 
-## Recommended IDE Setup
+## Features
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Coming soon...
+
+## Tasks
+
+- [ ] Implement a system tray with a sleek dropdown menu
+- [ ] Implement time tracking functionality
+- [ ] Add ESLint
+- [ ] Add support for the Zed editor
+- [ ] Add support for the Vim editor
+
+## Awaiting Implementation
+
+- [ ] Design and create mockups in Figma
+- [ ] Define the project's color palette
+
+## Future Plans
+
+- [ ] Track daily time spent in applications
+- [ ] Voice control
+- [ ] AI assistant
+
+## Supported Platforms
+
+- [x] Linux (x64)
+- [ ] macOS (Planned)
+- [ ] Windows (Planned)
+- [ ] Android (Planned)
+- [ ] iOS (Planned)
+- [ ] Watches (Planned)
+
+## Contributing
+
+Coming soon...
