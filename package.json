@@ -1,8 +1,21 @@
 {
   "name": "eon",
+  "license": "AGPL-3.0",
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "author": {
+    "name": "Vitaliy Malyshev",
+    "email": "zich.contemporary@mail.ru",
+    "url": "https://github.com/x-bit-x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x-bit-x/eon"
+  },
+  "bugs": {
+    "url": "https://github.com/x-bit-x/eon/issues"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
